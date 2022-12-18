@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ishangaur07
-- 👀 I’m interested in 
-- 🌱 I’m currently learning Java, DSA and Devops
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Java, JavaScript and Devops
 - 💞️ I’m looking to collaborate on open sourse
 - 📫 How to reach me ishangaur107@gmail.com
 
